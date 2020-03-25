@@ -1,0 +1,2 @@
+randomize();
+game_restart();
